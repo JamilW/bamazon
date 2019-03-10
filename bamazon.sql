@@ -27,7 +27,7 @@ INSERT INTO products (item_id, product_name, department_name, price, stock_quant
 VALUES (238355, "Bose Headphones", "Electronics", 100.00, 25);
 
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
-VALUES (465635, "Addidas Trefoil Hoodie", "Men's Fashion", 63.99, 100);
+VALUES (465635, "Adidas Trefoil Hoodie", "Men's Fashion", 63.99, 100);
 
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
 VALUES (658463, "Stainless Steel Dinner Forks Set", "Kitchen", 11.99, 85);
