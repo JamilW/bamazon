@@ -8,11 +8,11 @@ MySQL storefront
 
     * Placing Order
 
-![ORDER.PNG](/screenshots/Screenshot(11).png)
+![ORDER.PNG](/screenshots/placeorder.png)
 
     * Order Summary
 
-![DEFAULT.PNG](/screenshots/Screenshot(12).png)    
+![DEFAULT.PNG](/screenshots/ordersummary.png)    
 
 * Create a MySQL Database called bamazon.
 * Then create a Table inside of that database called products.
